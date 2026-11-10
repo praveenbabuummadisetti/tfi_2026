@@ -2,3 +2,4 @@ Hero Name : Ram charan
 Heroine Name : Jhanvi Kapoor
 Release Date: 4th June 2026
 Status: Released
+Movie Director: Buchi Babu
